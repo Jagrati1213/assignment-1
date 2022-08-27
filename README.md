@@ -1,4 +1,4 @@
-# assignment-1# 
+# assignment-1
 ### Protfolio-Home Page
 I creat this project for my pratice.
 ## Used language ##
@@ -10,4 +10,4 @@ I creat this project for my pratice.
 - MD Bootstrap
 - Font Awesome
 ## ##
-*You Can check out the [click](https://jagrati1213.github.io/Saas-LandingPage/)*
+*You Can check out the [click](https://jagrati1213.github.io/assignment-1/)*
