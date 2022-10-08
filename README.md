@@ -1,6 +1,7 @@
 # assignment-1 #
-### Protfolio-Home Page UI *Devloyed [link](https://jagrati1213.github.io/assignment-1/)* ###
-It was given by the Ineuron as Task
+### Protfolio-Home Page UI ###
+*Devloyed [link](https://jagrati1213.github.io/assignment-1/)*\
+It was given by the Ineuron as Task.
 ## Used language ##
 - HTML 
 - CSS
